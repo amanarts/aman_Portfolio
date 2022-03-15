@@ -1,6 +1,6 @@
 import React from 'react';
 import { BsTwitter, BsInstagram } from 'react-icons/bs';
-import { FaFacebookF } from 'react-icons/fa';
+import { SiBehance } from 'react-icons/si';
 
 const SocialMedia = () => (
   <div className="app__social">
@@ -8,7 +8,7 @@ const SocialMedia = () => (
       <BsTwitter />
     </div>
     <div>
-      <FaFacebookF />
+      <SiBehance />
     </div>
     <div>
       <BsInstagram />
